@@ -55,14 +55,6 @@ This project is a clone of the popular e-commerce platform Myntra, developed usi
    - Clone or develop your backend server.
    - Ensure your backend server is running and accessible.
 
-5. **Configure API Endpoints:**
-
-   Update the API base URL in your frontend code to point to your backend server.
-
-   ```javascript
-   // src/api/config.js
-   export const API_BASE_URL = 'http://your-backend-url/api';
-   ```
 
 ## Usage
 
